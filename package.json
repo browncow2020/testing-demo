@@ -23,7 +23,7 @@
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
     "cryptiles": "^4.1.2",
-    "handlebars": "^4.3.0",
+    "handlebars": "^4.4.5",
     "hoek": "^5.0.4",
     "https-proxy-agent": "^2.2.3",
     "parsejson": "0.0.3",
